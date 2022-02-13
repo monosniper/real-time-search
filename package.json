@@ -1,0 +1,23 @@
+{
+  "name": "real-time-search",
+  "version": "1.0.0",
+  "description": "Simple js package to make input searchable in real time.",
+  "main": "index.js",
+  "homepage": "https://github.com/monosniper/real-time-search",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/monosniper/real-time-search.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "search",
+    "real-time"
+  ],
+  "author": "Ravilto <vanteateam@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+
+  }
+}
